@@ -1,0 +1,2 @@
+# PYTHON AI STOPWATCH V. 0.1
+created 17 July 2024 02:10
